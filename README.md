@@ -17,7 +17,7 @@ Para que funcione es necesario tener estas dos claves guardadas en la computador
 ## Configuracion del Entorno
 
 1. Descargar el repositorio y entrar a la carpeta:
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/Jobinni/Evaluacion-Parcial-2-ISY0101.git
    cd nombre-del-repositorio
 
 2. Crear y activar el entorno virtual en Windows (PowerShell):
